@@ -9,9 +9,7 @@ This is a form validation app built using React.js and Tailwind CSS. It captures
 
 🔒 Show/Hide password toggle
 
-📱 Mobile-responsive design using Tailwind CSS
-
-📍 Country-based city dropdowns
+📱 Design using Tailwind CSS
 
 🧭 Navigation using React Router
 
