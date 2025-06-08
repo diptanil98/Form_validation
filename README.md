@@ -1,15 +1,31 @@
-# React + Vite
+🧾 React Form Validation with Tailwind CSS
+This is a form validation app built using React.js and Tailwind CSS. It captures user input, validates form fields using custom validation logic with regular expressions, and displays appropriate error messages. Upon successful submission, it navigates to a confirmation page with submitted details.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+✅ Real-time form validation
 
-Currently, two official plugins are available:
+🧪 Regex-based checks (email, phone, PAN, Aadhar, etc.)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔒 Show/Hide password toggle
 
-## Expanding the ESLint configuration
+📱 Mobile-responsive design using Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📍 Country-based city dropdowns
+
+🧭 Navigation using React Router
+
+⚠️ Displays validation errors inline
+
+✅ Success message on valid submission
+
+🛠 Tech Stack
+React.js
+
+Tailwind CSS
+
+React Router
+
+JavaScript (ES6+)
 ![Form_validation](https://github.com/user-attachments/assets/88fd838d-d601-4172-86d5-e6301f516e39)
 
 
