@@ -52,6 +52,7 @@ const Form = () => {
   }
 
   return (
+    <>
     <div className="min-h-screen bg-blue-300 py-10">
       <div className="max-w-xl mx-auto p-6 bg-white shadow-md rounded-md">
         <h2 className="text-2xl font-bold mb-6 text-center">Registration Form</h2>
@@ -190,6 +191,7 @@ const Form = () => {
         </form>
       </div>
     </div>
+    </>
   );
 };
 

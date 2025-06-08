@@ -4,6 +4,7 @@ const Details = () => {
   const { state } = useLocation();
 
   return (
+    <>
     <div className="max-w-2xl mx-auto p-6 mt-10 bg-white rounded-lg shadow-md">
       <h2 className="text-2xl font-bold mb-4 text-center text-blue-700">
         Submitted Details
@@ -17,6 +18,7 @@ const Details = () => {
         ))}
       </ul>
     </div>
+    </>
   );
 };
 
