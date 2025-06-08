@@ -14,8 +14,11 @@ This is a form validation app built using React.js and Tailwind CSS. It captures
 
 🛠 Tech Stack
 React.js
+
 Tailwind CSS
+
 React Router
+
 JavaScript (ES6+)
 
 ![Form_validation](https://github.com/user-attachments/assets/7117a47d-b003-433e-8e6b-818199e3b483)
