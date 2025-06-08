@@ -3,6 +3,7 @@
 This is a form validation app built using React.js and Tailwind CSS. It captures user input, validates form fields using custom validation logic with regular expressions, and displays appropriate error messages. Upon successful submission, it navigates to a confirmation page with submitted details.
 
 🚀 Features
+
 ✅ Real-time form validation
 🧪 Regex-based checks (email, phone, PAN, Aadhar, etc.)
 🔒 Show/Hide password toggle
