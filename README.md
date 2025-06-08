@@ -11,6 +11,7 @@ This is a form validation app built using React.js and Tailwind CSS. It captures
 ⚠️ Displays validation errors inline
 ✅ Success message on valid submission
 
+
 🛠 Tech Stack
 React.js
 Tailwind CSS
